@@ -1,5 +1,5 @@
 - 👋 Hi, I’m miami0x and i am a software dev
-- 👀 I’m interested in learning and connecting with other devs. i am interested in learning rust, go, typescript
+- 👀 I’m interested in learning and connecting with other devs. my stack = rust, go, typescript
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on projects that matches my expertise
 - 📫 How to reach me is via discord at miami0x
